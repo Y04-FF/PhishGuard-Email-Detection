@@ -1,0 +1,31 @@
+text,label
+"Urgent: Your account will be suspended. Verify your password now at http://secure-account-verify.example/login",phishing
+"Congratulations, you won a prize. Claim your reward immediately using this link http://claim-prize.example",phishing
+"Unusual sign-in detected. Confirm your banking details to avoid account closure.",phishing
+"Your mailbox is full. Click here to restore access and enter your password.",phishing
+"Payment failed. Update your card information immediately to prevent service termination.",phishing
+"IT Support: send your login password to confirm your account is active.",phishing
+"Final warning: your package is held. Pay a small fee at http://delivery-fee.example",phishing
+"Your tax refund is waiting. Submit your bank details today.",phishing
+"Dear user, your account has been compromised. Login now to secure it.",phishing
+"Action required: validate your credentials at http://login-check.example/auth",phishing
+"Please review the attached invoice and send payment to this new account today.",phishing
+"Your subscription expires today. Enter card details to continue without interruption.",phishing
+"Hello, the team meeting has moved to 2:30 PM tomorrow. The agenda is attached.",safe
+"Thanks for your order. Your receipt is attached for your records.",safe
+"Hi Maya, are we still meeting for lunch on Friday?",safe
+"Your monthly statement is now available. Sign in through the official app to view it.",safe
+"Reminder: the project report is due next Monday. Please upload it to the shared drive.",safe
+"Your library book is due in three days. Reply if you need a renewal.",safe
+"Hi team, here are the notes from today's planning meeting.",safe
+"Your password was changed successfully. If this was you, no action is needed.",safe
+"Thank you for contacting support. We have received your request and will respond soon.",safe
+"Order update: your parcel has shipped. Track it from your account on our official website.",safe
+"Please find the class timetable attached. Let me know if you have questions.",safe
+"Your appointment is confirmed for Tuesday at 10 AM.",safe
+"Could you send me the latest version of the presentation before the review?",safe
+"Your annual membership renewal is complete. Thank you for staying with us.",safe
+"Weekly newsletter: this week's articles and announcements are ready to read.",safe
+"Hi, I shared the meeting minutes in our usual team folder.",safe
+"Invoice for your recent purchase is attached. Contact our billing team with questions.",safe
+"Reminder: the college workshop starts at 9 AM in the main auditorium.",safe
